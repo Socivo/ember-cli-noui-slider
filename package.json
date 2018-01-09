@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-noui-slider",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Ember CLI wrapper for noUiSlider.Not ready for production yet.",
   "keywords": [
     "ember-addon",
     "nouislider",
@@ -11,7 +11,7 @@
     "input range"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Sanket Sharma",
   "directories": {
     "doc": "doc",
     "test": "tests"
