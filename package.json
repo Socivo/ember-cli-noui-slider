@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-noui-slider",
+  "name": "@socivo/ember-cli-noui-slider",
   "version": "0.0.1",
   "description": "Ember CLI wrapper for noUiSlider.Not ready for production yet.",
   "keywords": [
