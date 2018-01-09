@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-noui-slider/components/noui-slider';
