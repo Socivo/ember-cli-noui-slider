@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-simple-slider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ember CLI wrapper for noUiSlider.Not ready for production yet.",
   "keywords": [
     "ember-addon",
